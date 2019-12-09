@@ -1,0 +1,2 @@
+rootProject.name='butterKnife'
+include ':app'
